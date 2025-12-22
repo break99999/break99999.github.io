@@ -1,19 +1,27 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+
   <channel>
     <title>a clean break — Notes</title>
     <link>https://www.acleanbreak.com/</link>
-    <description>notes, marginalia, &amp; small experiments</description>
+    <description><![CDATA[notes, marginalia, & small experiments]]></description>
     <language>en-us</language>
+
+    <!-- Strongly recommended for compatibility -->
+    <atom:link href="https://www.acleanbreak.com/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Dec 2025 12:00:00 -0500</lastBuildDate>
+    <generator>GitHub Pages (static)</generator>
 
     <item>
       <title>First Post: Why this exists</title>
       <link>https://www.acleanbreak.com/posts/2025-12-20-first-post.html</link>
-      <guid>https://www.acleanbreak.com/posts/2025-12-20-first-post.html</guid>
+      <guid isPermaLink="true">https://www.acleanbreak.com/posts/2025-12-20-first-post.html</guid>
       <pubDate>Sat, 20 Dec 2025 12:00:00 -0500</pubDate>
-      <description>
-        A short note on why I'm keeping a plain, durable website.
-      </description>
+      <description><![CDATA[
+A short note on why I'm keeping a plain, durable website.
+      ]]></description>
     </item>
+
   </channel>
 </rss>
