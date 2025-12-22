@@ -1,42 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <title>a clean break — RSS Feed</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="stylesheet" href="style.css" />
-</head>
-<body>
-
-<header>
-  <h1 class="site-title">a clean break</h1>
-  <p class="subtitle">new england emo, incelcore</p>
-  <nav>
-    <a href="index.html">Home</a>
-    <a href="about.html">About</a>
-    <a href="merch.html">Merch</a>
-    <a href="shows.html">Upcoming Shows</a>
-    <a href="feed.xml">RSS</a>
-  </nav>
-</header>
-
-<hr />
-
-<h2>RSS Feed</h2>
-
-<p>Subscribe to this feed to get updates whenever new posts are published. Copy the feed URL below into your RSS reader:</p>
-
-<pre>https://www.acleanbreak.com/feed.xml</pre>
-
-<p>Popular RSS readers include <a href="https://feedly.com">Feedly</a>, <a href="https://www.inoreader.com">Inoreader</a>, and many others. Most browsers also support RSS subscriptions directly.</p>
-
-<hr />
-
-</body>
-</html>
-
-<?xml version="1.0" encoding="UTF-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
     <title>a clean break — Notes</title>
@@ -50,7 +12,7 @@
       <guid>https://www.acleanbreak.com/posts/2025-12-20-first-post.html</guid>
       <pubDate>Sat, 20 Dec 2025 12:00:00 -0500</pubDate>
       <description>
-        A short note on why I’m keeping a plain, durable website.
+        A short note on why I'm keeping a plain, durable website.
       </description>
     </item>
   </channel>
