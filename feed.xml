@@ -21,7 +21,7 @@
   </nav>
 </header>
 
-<hr>
+<hr />
 
 <h2>RSS Feed</h2>
 
@@ -31,8 +31,12 @@
 
 <p>Popular RSS readers include <a href="https://feedly.com">Feedly</a>, <a href="https://www.inoreader.com">Inoreader</a>, and many others. Most browsers also support RSS subscriptions directly.</p>
 
-<hr>
+<hr />
 
+</body>
+</html>
+
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
     <title>a clean break — Notes</title>
