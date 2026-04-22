@@ -45,9 +45,14 @@ If it lasts ten years, it succeeds.
 
 <hr>
 
-<footer class="meta">
-  <a href="../index.html">← Back to index</a>
+<footer>
+  © <span id="year"></span> a clean break · built on GitHub Pages · <a href="feed.xml">RSS</a>
 </footer>
+
+<script>
+  document.getElementById("year").textContent = new Date().getFullYear();
+</script>
+
 
 </body>
 </html>
