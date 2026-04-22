@@ -5,7 +5,6 @@ Static GitHub Pages site for `www.acleanbreak.band`.
 ## Structure
 
 - `index.html`: homepage and hand-edited post index
-- `about.html`: about/bio page
 - `merch.html`: merch page with a featured item layout
 - `shows.html`: upcoming shows page
 - `posts/`: individual blog posts as standalone HTML files
@@ -24,7 +23,6 @@ Static GitHub Pages site for `www.acleanbreak.band`.
 
 ## Updating Other Content
 
-- Edit `about.html` for band bio, links, and general profile info.
 - Edit `merch.html` for store links, item cards, and contact details.
 - Edit `shows.html` for upcoming dates and venue information.
 - Edit `style.css` for site-wide typography, spacing, and colors.
